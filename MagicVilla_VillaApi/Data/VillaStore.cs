@@ -1,4 +1,4 @@
-﻿using MagicVilla_VillaApi.Dto;
+﻿using MagicVilla_VillaApi.Models.Dto;
 using System.Xml.Linq;
 
 namespace MagicVilla_VillaApi.Data

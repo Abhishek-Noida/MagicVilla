@@ -1,6 +1,6 @@
 ﻿using MagicVilla_VillaApi.Data;
-using MagicVilla_VillaApi.Dto;
 using MagicVilla_VillaApi.Models;
+using MagicVilla_VillaApi.Models.Dto;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MagicVilla_VillaApi.Controller
